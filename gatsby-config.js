@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `test_gatsby_app`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://cms-wp-react.netlify.app`
   },
   plugins: ["gatsby-plugin-netlify-cms"]
 };
